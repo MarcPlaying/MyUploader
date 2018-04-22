@@ -1,6 +1,6 @@
 # MyUploader aka MarcUploader
 
-## What is EnjuuUploader?
+## What is MarcUploader?
 > MarcUploader is a Software Written in c# that can handle the Uploading of Files to a sFTP Server.
 
 ## How to use?
